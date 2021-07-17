@@ -1,0 +1,8 @@
+progress==1.5
+python3-nmap==1.5.0
+python-whois==0.7.3
+beautifulsoup4==4.9.3
+requests==2.25.1
+phonenumbers==8.12.26
+geocoder==1.38.1
+ipinfo==4.2.0 
