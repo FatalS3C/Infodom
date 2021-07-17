@@ -4,7 +4,6 @@
 
 ***
 [![Generic badge](https://forthebadge.com/images/badges/made-with-python.svg)](https://shields.io/)
-https://forthebadge.com/images/badges/works-on-my-machine.svg x
 
 ![INFODOM](https://raw.githubusercontent.com/FatalS3C/Infodom/main/infodom.png)
 *Ferramenta para informações e auxílio no pentest*
