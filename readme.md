@@ -45,4 +45,14 @@
 ![Whois](https://raw.githubusercontent.com/FatalS3C/Infodom/main/Fotos/whois.png)
 **
 
+[![Generic badge](https://img.shields.io/badge/CONTATO-EMAIL-blue.svg)](https://malito:rootfatalsec@protonmail.ch)
+
+
+[![Generic badge](https://img.shields.io/badge/CONTATO-TELEGRAM-blue.svg)](https://t.me/fatalsec)
+
+
+[![Generic badge](https://img.shields.io/badge/CONTATO-INSTAGRAM-blue.svg)](https://www.instagram.com/fatalsec/)
+
+
+[![Generic badge](https://img.shields.io/badge/CONTATO-TWITTER-blue.svg)](https://twitter.com/F4t4lsec)
 
