@@ -1,8 +1,16 @@
+
 ***
 
 ## INFODOM
 
 ***
+
+
+[![Generic badge](https://img.shields.io/badge/VERSÃO-1.0.2-cyan.svg)](https://pypi.org/project/progress/)
+
+*Update 1.0.2
+Agora da para criptografar arquivos*
+
 [![Generic badge](https://forthebadge.com/images/badges/made-with-python.svg)](https://shields.io/)
 
 ![INFODOM](https://raw.githubusercontent.com/FatalS3C/Infodom/main/infodom.png)
