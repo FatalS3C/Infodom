@@ -102,22 +102,5 @@ alt='Python' src='https://img.shields.io/badge/python3-Faker_[11.3.0]-100000?sty
 ##
 
 
-## **Contato** 
-
-<a href='malito:fatalsec@dnmx.org' target="_blank"><img alt='None' src='https://img.shields.io/badge/EMAIL-FATALSEC-100000?style=for-the-badge&logo=None&logoColor=C79292&labelColor=26A5E4&color=000000'/></a>
-
-<a href='https://t.me/fatalsec' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/TELEGRAM-FATALSEC-100000?style=for-the-badge&logo=Telegram&logoColor=C79292&labelColor=26A5E4&color=000000'/></a>
-
-<a href='https://t.me/archonchat' target="_blank"><img alt='Telegram' src="https://img.shields.io/badge/GROUP-ARCHON GROUP [Myteam]-100000?style=for-the-badge&logo=Telegram&logoColor=C79292&labelColor=26A5E4&color=000000"/></a>
-
-<a href='https://teamroot.com.br' target="_blank"><img alt="GNU Bash" src="https://img.shields.io/badge/TEAM_ROOT-TEAM-100000?style=for-the-badge&logo=GNUBash&logoColor=000000&labelColor=26A5E4&color=000000"/></a>
-
-<a href='https://twitter.com/F4t4lsec' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/TEAM_ROOT-FATALSEC-100000?style=for-the-badge&logo=Twitter&logoColor=000000&labelColor=26A5E4&color=000000'/></a>
-
-<a href='https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A' target="_blank"><img alt='Youtube'
-src='https://img.shields.io/badge/CANAL-FATALSEC-100000?style=for-the-badge&logo=Youtube&logoColor=000000&labelColor=26A5E4&color=000000'/></a>
-
-
-##
 
 **Amo vocês.**
