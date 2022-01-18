@@ -1,3 +1,10 @@
+## Versão atualizada para: 2.0.1
+
+
+***💫Novidades💫***
+*Novas ferramentas como DNScan e PORTscan*
+
+
 *Olá, programei uma ferramenta cujo o nome é "infodom", a principio era "INFOSEC" mas acabei trocando por algum motivo.
 Acompanhes as novidades abaixo, atualizei recentemente ^^*
 
