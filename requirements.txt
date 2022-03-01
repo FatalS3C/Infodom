@@ -6,3 +6,5 @@ requests==2.25.1
 phonenumbers==8.12.26
 geocoder==1.38.1
 ipinfo==4.2.0 
+geopy
+faker
