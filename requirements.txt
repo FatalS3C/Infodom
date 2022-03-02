@@ -9,3 +9,4 @@ ipinfo==4.2.0
 geopy
 faker
 json
+user-agents==2.2.0
