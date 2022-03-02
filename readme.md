@@ -1,8 +1,8 @@
-## Versão atualizada para: 2.0.1
+## Versão atualizada para: 3.1.1
 
 
 ***💫Novidades💫***
-*Novas ferramentas como DNScan e PORTscan*
+*Agora temos ferramentas novas, como, USER-AGENTLOKUUP e IPINFO com o uso de uma api boa!*
 
 
 *Olá, programei uma ferramenta cujo o nome é "infodom", a principio era "INFOSEC" mas acabei trocando por algum motivo.
@@ -80,7 +80,11 @@ target="_blank"><img alt='Python' src='https://img.shields.io/badge/python3-phon
 <a href='https://pypi.org/project/Faker/' target="_blank"><img
 alt='Python' src='https://img.shields.io/badge/python3-Faker_[11.3.0]-100000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=8cdb70&color=black'/></a>
 
+<a href='https://docs.python.org/3/library/json.html' target="_blank"><img
+alt='Python' src='https://img.shields.io/badge/python3-JSON-100000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=8cdb70&color=black'/></a>
 
+<a href='https://pypi.org/project/user-agents/' target="_blank"><img
+alt='Python' src='https://img.shields.io/badge/python3-USERAGENTS [2.2.0 ]-100000?style=for-the-badge&logo=Python&logoColor=000000&labelColor=8cdb70&color=black'/></a>
 
 
 ## **Ferramentas adicionadas**
@@ -105,7 +109,9 @@ alt='Python' src='https://img.shields.io/badge/python3-Faker_[11.3.0]-100000?sty
 
 <img src='https://img.shields.io/badge/Gera_Pessoa (API)-100000?style=for-the-badge&logo=Windows Terminal&logoColor=white&labelColor=black&color=black'>
 
+<img src='https://img.shields.io/badge/UserAgent LOOKUP-100000?style=for-the-badge&logo=Windows Terminal&logoColor=white&labelColor=black&color=black'>
 
+<img src='https://img.shields.io/badge/IPINFO [API]-100000?style=for-the-badge&logo=Windows Terminal&logoColor=white&labelColor=black&color=black'>
 ##
 
 
