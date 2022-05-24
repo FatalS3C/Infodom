@@ -1,1 +1,19 @@
-RmF0YWxzZWMgaXMgaGVyZSE
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fatalsec>
+ <user>fatalsec</user>
+ <senha>thefatal</senha>
+ <cargo>SUB-DONO</cargo>
+ <email>rootfatalsec@protonmail.ch</email>
+ <lang>PYTHON | JS | PHP | SHELL</lang>
+ <telegram>@Fatalsec</telegram>
+</fatalsec>
+
+<azz4>
+ <user>azz4_defalt</user>
+ <senha>Low7/Stand//</senha>
+ <cargo>Owner</cargo>
+ <email>azz4_defalt@protonmail.com</email>
+ <lang>JS | C</lang>
+ <telegram>@azz4_defalt</telegram>
+</azz4>
